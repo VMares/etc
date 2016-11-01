@@ -12,6 +12,7 @@ Nota: Debes dar una breve explicacion de cada concepto, basandote en los codigos
 EQUIPO:
 
 -Sanchez Hernandez Max Armando
+-Mares Ontiveros Valeria Fernanda
 
 MATERIA: Lenguajes de programacion
 
